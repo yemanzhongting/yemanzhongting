@@ -2,7 +2,7 @@
 - 👀 I’m interested in GeoAI
 - 🌱 I’m currently learning spatial data related research
 - 💞️ I’m looking to collaborate on Multi-Modal domain
-- 📫 You reach me through yemanzhongting.github.io or through email sggzhang(@).whu.edu.cn
+- 📫 You reach me through yemanzhongting.github.io or through email sggzhang(@)whu.edu.cn
 
 ![](https://raw.githubusercontent.com/yemanzhongting/picb/main/%E5%9F%8E%E5%B8%82%E5%BE%8B%E5%8A%A82.gif)
 
