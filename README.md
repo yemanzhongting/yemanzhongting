@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning spatial data related research
 - 💞️ I’m looking to collaborate on Multi-Modal domain
 - 📫 You reach me through yemanzhongting.github.io or through email sggzhang(@)whu.edu.cn
-### sensing city through street view 
+### Sensing City through Street View 
 ![](https://raw.githubusercontent.com/yemanzhongting/picb/main/depth_view.gif)
-### city dance
+### City Dance
 ![](https://raw.githubusercontent.com/yemanzhongting/picb/main/%E5%9F%8E%E5%B8%82%E5%BE%8B%E5%8A%A82.gif)
 
 ![](https://komarev.com/ghpvc/?username=yemanzhongting)
