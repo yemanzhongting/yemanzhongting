@@ -8,8 +8,6 @@
 ### City Dance
 ![](https://raw.githubusercontent.com/yemanzhongting/picb/main/%E5%9F%8E%E5%B8%82%E5%BE%8B%E5%8A%A82.gif)
 
-![](https://raw.githubusercontent.com/yemanzhongting/picb/main/MMZ_7134.JPG)
-
 ![](https://komarev.com/ghpvc/?username=yemanzhongting)
 <div>
 <a href="https://info.flagcounter.com/16fE"><img src="https://s01.flagcounter.com/map/16fE/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
